@@ -34,7 +34,19 @@ smart_traffic_analytics/
 ├── config/              # Configuration files
 ├── docs/                # Project documentation
 └── notebooks/           # Jupyter notebooks for analysis
+
 ```
+
+
+## KPIs and Metrics
+
+The system tracks various KPIs including:
+- Average traffic speed
+- Congestion levels
+- Peak hour patterns
+- Weather impact on traffic
+- Special event impact
+  
 m
 ## Setup Instructions
 
@@ -105,23 +117,3 @@ Serve documentation locally:
 mkdocs serve
 ```
 
-## KPIs and Metrics
-
-The system tracks various KPIs including:
-- Average traffic speed
-- Congestion levels
-- Peak hour patterns
-- Weather impact on traffic
-- Special event impact
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
