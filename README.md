@@ -1,20 +1,7 @@
 # Smart City Traffic Analytics System
 
-A comprehensive data engineering project that processes and analyzes real-time traffic data to provide insights about traffic patterns, congestion, and environmental impacts. The system integrates multiple data sourcProject Overview:
-"I developed a comprehensive Smart City Traffic Analytics System that processes and analyzes real-time traffic data to provide insights about traffic patterns, congestion, and environmental impacts. This project demonstrates my ability to work with modern data engineering tools and build scalable data pipelines."
-Key Technologies Used:
-Data Storage & Processing:
-PostgreSQL for structured data storage
-Apache Kafka for real-time data streaming
-Apache Spark for large-scale data processing
-SQLAlchemy for ORM and database interactionsProject Overview:
-"I developed a comprehensive Smart City Traffic Analytics System that processes and analyzes real-time traffic data to provide insights about traffic patterns, congestion, and environmental impacts. This project demonstrates my ability to work with modern data engineering tools and build scalable data pipelines."
-Key Technologies Used:
-Data Storage & Processing:
-PostgreSQL for structured data storage
-Apache Kafka for real-time data streaming
-Apache Spark for large-scale data processing
-SQLAlchemy for ORM and database interactionses including traffic sensors, weather data, and special events to provide actionable insights for smart city management.
+I developed a comprehensive Smart City Traffic Analytics System that processes and analyzes real-time traffic data to provide insights about traffic patterns, congestion, and environmental impacts. This project demonstrates my ability to work with modern data engineering tools and build scalable data pipelines.
+
 
 ## Project Overview
 
@@ -173,29 +160,6 @@ The system provides valuable insights for:
 - Environmental impact assessment
 - Special event planning
 
-## Learning Outcomes
-
-### Technical Skills
-- Advanced experience with big data technologies
-- Real-time data processing expertise
-- Database optimization techniques
-- Testing and deployment strategies
-
-### Soft Skills
-- Problem-solving in complex systems
-- Documentation and technical writing
-- System architecture design
-- Performance optimization
-
-## Best Practices Implemented
-
-1. Clean code and modular design
-2. Comprehensive documentation
-3. Extensive testing coverage
-4. Error handling and logging
-5. Security best practices
-6. Performance optimization
-
 ## Future Enhancements
 
 1. Machine learning models for traffic prediction
@@ -205,14 +169,3 @@ The system provides valuable insights for:
 5. Mobile application development
 6. API endpoint creation
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
