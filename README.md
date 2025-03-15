@@ -1,6 +1,6 @@
 # Smart City Traffic Analytics System
 
-A comprehensive data engineering project that processes and analyzes real-time traffic data to provide insights about traffic patterns, congestion, and potential improvements.
+A comprehensive data engineering project that processes and analyzes real-time traffic data to provide insights about traffic patterns, congestion.
 
 ## Project Overview
 
