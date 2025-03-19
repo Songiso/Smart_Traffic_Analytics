@@ -35,7 +35,6 @@ def sample_traffic_data(spark):
         (1, datetime.now(), 120, 60.0, 0.4, '{"cars": 90, "trucks": 20, "buses": 10}'),
         (2, datetime.now(), 80, 70.0, 0.2, '{"cars": 70, "trucks": 8, "buses": 2}')
     ]
-    
     return spark.createDataFrame(data, schema)
 
 @pytest.fixture(scope="function")
