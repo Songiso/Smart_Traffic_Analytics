@@ -10,7 +10,7 @@ This project demonstrates the implementation of a complete data engineering pipe
 - Large-scale data processing with Apache Spark
 - Data storage with PostgreSQL
 - Interactive visualizations with Streamlit and Plotly
-- Comprehensive testing and documentation
+- Comprehensive testing and documentation.
 
 ## Architecture
 
