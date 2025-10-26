@@ -1,4 +1,4 @@
-# Smart--City Traffic Analytics System
+# Smart City Traffic Analytics System
 
 I developed a comprehensive Smart City Traffic Analytics System that processes and analyzes real-time traffic data to provide insights about traffic patterns, congestion, and environmental impacts. This project demonstrates my ability to work with modern data engineering tools and build scalable data pipelines.
 
